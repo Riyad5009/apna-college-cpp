@@ -6,6 +6,6 @@ int main(){
      cin>>pen;
      cin>>eraser;
      float sum=pencil+pen+eraser;
-     cout<<"With vat:"<<sum;
+     cout<<"With vat:"<<sum+(00.18);
     return 0;
 }
