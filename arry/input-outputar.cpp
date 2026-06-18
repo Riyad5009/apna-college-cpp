@@ -8,3 +8,5 @@ int main(){
     }
     return 0;
 }
+// output
+// 7 5 2 1 3 
